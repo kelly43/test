@@ -1,0 +1,223 @@
+.imgBg {
+	display: block;
+	margin: 0 auto;
+}
+.works-content {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	position: relative;
+	overflow: hidden;
+}
+.left-info {
+	width: 710px;
+	float: left;
+}
+.right-info {
+	width: 255px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 59px;
+}
+.tab-nav ul li {
+	float: left;
+	list-style: none;
+	padding: 15px 20px 20px 20px;
+	border-right: 1px solid #EEEEEE;
+	border-bottom: 1px solid #EEEEEE;
+	background-color: #fff;
+}
+/*.tab-nav input[type="radio"] {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+.tab-nav li[class^="tab"]:checked {
+	border-top: 5px solid #DFC6E6;
+}*/
+.all {
+	border-top: 5px solid #DFC6E6;
+}
+.js {
+	border-top: 5px solid #DFC6E6;
+}
+.ui {
+	border-top: 5px solid #D2A6FF;
+}
+.fw {
+	border-top: 5px solid #FFA98C;
+}
+.app {
+	border-top: 5px solid #FFE188;
+}
+.all:hover {
+	border-top: 5px solid #522A5C;
+	border-bottom: 1px solid #fff;
+}
+.js:hover {
+	border-top: 5px solid #522A5C;
+	border-bottom: 1px solid #fff;
+}
+.ui:hover {
+	border-top: 5px solid #5900B2;
+	border-bottom: 1px solid #fff;
+}
+.fw:hover {
+	border-top: 5px solid #8C2300;
+	border-bottom: 1px solid #fff;
+}
+.app:hover {
+	border-top: 5px solid #D9A300;
+	border-bottom: 1px solid #fff;
+}
+.tab-content {
+	width: 690px;
+	background-color: #fff;
+	overflow: hidden;
+	padding: 10px;
+}
+.info-box {
+	display: inline-block;
+	float: left;
+	margin: 5px;
+}
+.info-img {
+	display: block;
+}
+.info-text {
+	overflow: hidden;
+	color: #fff;
+}
+.left-con {
+	float: left;
+	border-radius: 50%;
+	margin: 10px;
+	border: 1px solid #fff;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+}
+.right-con {
+	float: left;
+	padding: 10px;
+	padding-left: 0;
+}
+.info-title {
+	font-size: 15px;
+	padding-bottom: 5px;
+}
+.info-content {
+	font-size: 13px;
+	line-height: 18px;
+}
+.wen1 {
+	width: 427px;
+}
+.wen2 {
+	width: 117px;
+}
+.wen3 {
+	width: 188px;
+}
+.more {
+	width: 100%;
+	text-align: center;
+	padding: 20px 0;
+	background-color: #fff;
+	margin-top: 10px;
+	color: #666;
+}
+.more-img {
+	width: 18px;
+	vertical-align: middle;
+	padding-right: 5px;
+}
+.one-right {
+	width: 215px;
+	padding: 20px;
+	background-color: #fff;
+}
+.search-box {
+	width: 213px;
+	border: 1px solid #ccc;
+	height: 40px;
+	overflow: hidden;
+}
+.search-img {
+	width: 40px;
+	height: 40px;
+	background: url('../img/search.png');
+	background-size: 40px;
+	float: left;
+}
+.search {
+	width: 123px;
+	height: 100%;
+	border: 0;
+	float: left;
+	padding: 0 5px;
+	outline: none;
+}
+.search-btn {
+	float: left;
+	width: 40px;
+	height: 100%;
+	line-height: 40px;
+	background: #cccccc;
+	color: #ffffff;
+	text-align: center;
+	cursor: pointer;
+	font-size: 26px;
+}
+.two-right {
+	width: 100%;
+	margin-top: 10px;
+	background-color: #fff;
+	padding: 25px 10px;
+}
+.pai-title {
+	color: #666;
+	padding-bottom: 15px;
+}
+.pai-box {
+	overflow: hidden;
+	width: 100%;
+	margin-top: 10px;
+}
+.flo {
+	float: left;
+}
+.pai-num {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	color: #fff;
+	background-color: #522A5C;
+	border-radius: 50%;
+	text-align: center;
+}
+.jin {
+	width: 120px;
+	height: 20px;
+	margin: 0 10px;
+	border: 1px solid #522A5C;
+}
+.jinAll {
+	height: 100%;
+	background-color: #522A5C;
+}
+.jin1 {
+	width: 100%;
+}
+.jin2 {
+	width: 85%;
+}
+.jin3 {
+	width: 65%;
+}
+.jin4 {
+	width: 45%;
+}
+.jin5 {
+	width: 30%;
+}
